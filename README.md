@@ -221,11 +221,5 @@ This project is ideal for:
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ⭐ If this project helped you, please give it a ⭐ on GitHub!  
 Happy coding! 🚀
